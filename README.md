@@ -13,12 +13,12 @@
 * Ability to restrict groups(AUTH_GROUPS)
 
 
-## If Any Doubts Ask In [Update Channel](https://t.me/LXRYOUTUBERYT), [Support Group](https://t.me/LXRBOTSGROUP)
+## If Any Doubts Ask In [Update Channel](https://t.me/mlm_malayalam_movie), [Support Group](https://t.me/malayalam_movies_cornar)
 
 ## Installation
 
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LXR-YOUTUBER-AMAL/Media-Search-bot-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ashifbavamlm/Media-Search-bot-v2)
 ### Hard Way
 
 ```bash
